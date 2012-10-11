@@ -44,5 +44,5 @@ production:
   database: sales_production
   pool: 5
   username: sales
-  password: 123
+  password: sales123
   host: 10.130.6.178
